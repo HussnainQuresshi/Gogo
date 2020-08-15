@@ -1,0 +1,2 @@
+(this["webpackJsonpgogo-react"]=this["webpackJsonpgogo-react"]||[]).push([[85],{1056:function(t,e,a){"use strict";a.r(e);var n=a(6),o=a.n(n),c=a(129);e.default=function(){return o.a.createElement(c.a,{to:"/app"})}}}]);
+//# sourceMappingURL=views.f0651cae.chunk.js.map
